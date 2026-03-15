@@ -1,0 +1,30 @@
+#culcolator{
+    border: 1px solid rgb(144, 142, 142);
+    border-radius: 5px;
+    width: 200px;
+    /* height: 300px; */
+    background-color: bisque;
+}
+
+
+#display{
+margin: 10px ;
+width: 85%;
+font-size: 25px ;
+}
+
+.button_container{
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    
+
+}
+
+.button{
+    height: 45px;
+    width: 45px;
+    margin: 3px;
+
+
+}
